@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">CINEM geometric monogram</title>
+  <rect width="128" height="128" rx="18" fill="#fff"/>
+  <path d="M55 18 17 46v36l38 28V87L31 64l24-23V18Z" fill="#171717"/>
+  <path d="m73 18 38 28v36l-38 28V87l24-23-24-23V18Z" fill="#9A9A9A"/>
+</svg>

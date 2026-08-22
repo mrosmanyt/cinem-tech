@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 132" role="img" aria-label="CINEM — Your Web Partner">
+  <g transform="translate(8 2)" fill="#fff">
+    <path d="M55 18 17 46v36l38 28V87L31 64l24-23V18Z"/>
+    <path d="m73 18 38 28v36l-38 28V87l24-23-24-23V18Z"/>
+  </g>
+  <text x="142" y="80" fill="#fff" font-family="Sora, Inter, Arial, sans-serif" font-size="55" font-weight="700" letter-spacing="5">CINEM</text>
+  <text x="146" y="109" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="8.2">YOUR WEB PARTNER</text>
+</svg>

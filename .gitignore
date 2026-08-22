@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+.env*.local
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+data/*.sqlite
+data/*.sqlite-*
+data/*.db
+work/
+cinem-tech-hostinger-deploy.zip
+public/brand/concepts-grey/
+public/brand/cinem-logo-concepts-01-10.jpg
+public/brand/cinem-logo-concept-v2.png
+scripts/create-logo-sheet.mjs
+ANTIGRAVITY_IMAGE_PROMPT.md

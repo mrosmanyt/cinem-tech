@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 128" role="img" aria-labelledby="title description">
+  <title id="title">CINEM</title>
+  <desc id="description">CINEM technology and growth company logo</desc>
+  <defs>
+    <linearGradient id="brand" x1="18" y1="12" x2="112" y2="118" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#765FFF"/>
+      <stop offset="0.52" stop-color="#5844E8"/>
+      <stop offset="1" stop-color="#3421B5"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="30" fill="url(#brand)"/>
+  <path d="M88 34C75 23 54 21 39 32C20 46 18 75 34 93C48 109 73 109 89 96" fill="none" stroke="#fff" stroke-width="11" stroke-linecap="round"/>
+  <path d="M78 47.5L101 64L78 80.5V47.5Z" fill="#fff"/>
+  <text x="148" y="82" fill="#0B0B10" font-family="Sora, Inter, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="8">CINEM</text>
+</svg>

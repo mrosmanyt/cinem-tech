@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">CINEM connected C monogram</title>
+  <defs><linearGradient id="violet" x1="20" y1="18" x2="104" y2="112" gradientUnits="userSpaceOnUse"><stop stop-color="#4C16E8"/><stop offset="1" stop-color="#6843F5"/></linearGradient></defs>
+  <rect width="128" height="128" rx="18" fill="#fff"/>
+  <path d="M91 28C78 16 58 13 42 21C21 31 13 54 19 75C24 95 42 109 63 109C75 109 86 105 94 98" fill="none" stroke="url(#violet)" stroke-width="15" stroke-linecap="square"/>
+  <path d="M20 65H47" stroke="#fff" stroke-width="5"/>
+  <path d="M58 65H88L106 88" fill="none" stroke="#080C18" stroke-width="10" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M48 54H61L68 65L61 76H48L41 65L48 54Z" fill="#080C18"/>
+</svg>

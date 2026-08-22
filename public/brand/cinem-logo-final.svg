@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 132" role="img" aria-labelledby="title description">
+  <title id="title">CINEM — Your Web Partner</title>
+  <desc id="description">CINEM monochrome technology agency logo</desc>
+  <rect width="520" height="132" rx="14" fill="#fff"/>
+  <g transform="translate(8 2)">
+    <path d="M55 18 17 46v36l38 28V87L31 64l24-23V18Z" fill="#171717"/>
+    <path d="m73 18 38 28v36l-38 28V87l24-23-24-23V18Z" fill="#9A9A9A"/>
+  </g>
+  <text x="142" y="80" fill="#171717" font-family="Sora, Inter, Arial, sans-serif" font-size="55" font-weight="700" letter-spacing="5">CINEM</text>
+  <text x="146" y="109" fill="#777" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="8.2">YOUR WEB PARTNER</text>
+</svg>
