@@ -8,7 +8,7 @@ next-env.d.ts
 data/*.sqlite
 data/*.sqlite-*
 data/*.db
-work/
+/work/
 cinem-tech-hostinger-deploy.zip
 public/brand/concepts-grey/
 public/brand/cinem-logo-concepts-01-10.jpg
