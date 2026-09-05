@@ -17,6 +17,7 @@ import { posts } from "@/lib/blog";
 import { site, stats } from "@/lib/site";
 import { ProjectShowcase } from "@/components/ProjectShowcase";
 import { HeroVisual3D } from "@/components/HeroVisual3D";
+import PackagesOffers, { PackagesQuickLinks } from "@/components/PackagesOffers";
 
 export const metadata: Metadata = {
   title: `${site.name} — Web, App & AI Development Agency`,
@@ -141,6 +142,10 @@ export default function HomePage() {
                 </Link>
               </div>
 
+              <div className="mt-5 flex justify-center lg:justify-start">
+                <PackagesQuickLinks />
+              </div>
+
               <p className="mt-6 text-sm text-faint">
                 Typically replying within one business day
               </p>
@@ -236,6 +241,8 @@ export default function HomePage() {
           ))}
         </div>
       </Section>
+
+      <PackagesOffers />
 
       {/* ── Why CINEM ────────────────────────────────────────────────────── */}
       <section className="border-y border-line bg-surface py-20 sm:py-28">
