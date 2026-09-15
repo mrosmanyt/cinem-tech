@@ -9,8 +9,9 @@ import { AnalyticsConsent } from "./AnalyticsConsent";
 export function SiteChrome({ children }: { children: React.ReactNode }) {
   const pathname = usePathname();
   const isAdmin = pathname.startsWith("/admin") || pathname.startsWith("/proposal/") || pathname.startsWith("/invoice/");
+  const isStandaloneApp = pathname.startsWith("/delivery");
 
-  if (isAdmin) {
+  if (isAdmin || isStandaloneApp) {
     return <main id="main">{children}</main>;
   }
 
