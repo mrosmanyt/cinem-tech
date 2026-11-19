@@ -1,0 +1,87 @@
+# CINEM
+
+> CINEM is a full-service technology and growth partner. We build websites, web apps, mobile apps and custom software, deploy AI chatbots and calling agents, and run social media, content and lead generation for brands worldwide.
+
+- Website: https://cinem.tech
+- Tagline: Build. Automate. Grow.
+- Founded: 2021
+- Team: 25 people, remote delivery worldwide
+- Contact: hello@cinem.tech · Sales: sales@cinem.tech · Phone/WhatsApp: +971 55 527 5368
+- Facebook: https://www.facebook.com/profile.php?id=61596367245772
+- Instagram: https://www.instagram.com/cinem.tech/
+
+## Practices
+
+CINEM works in three practices: Build (one-time projects), AI Solutions (AI agents, setup plus ongoing operation), and Care (ongoing partnership retainers).
+
+## Services
+
+### Development — https://cinem.tech/services/development
+
+- Website Development: https://cinem.tech/services/development/website-development
+- Web Application Development: https://cinem.tech/services/development/web-applications
+- Mobile App Development: https://cinem.tech/services/development/mobile-app-development
+- Custom Software Development: https://cinem.tech/services/development/custom-software
+- API & Systems Integration: https://cinem.tech/services/development/integrations
+
+### AI Solutions — https://cinem.tech/services/ai-solutions
+
+- AI Chatbots: https://cinem.tech/services/ai-solutions/ai-chatbots
+- AI Calling Agents: https://cinem.tech/services/ai-solutions/ai-calling-agents
+- Workflow Automation: https://cinem.tech/services/ai-solutions/automation
+
+### Growth & Marketing — https://cinem.tech/services/growth-marketing
+
+- Social Media Management: https://cinem.tech/services/growth-marketing/social-media-management
+- Dedicated Social Media Manager: https://cinem.tech/services/growth-marketing/dedicated-social-media-manager
+- On-Demand Content Creation: https://cinem.tech/services/growth-marketing/content-creation
+- Marketing & Lead Generation: https://cinem.tech/services/growth-marketing/marketing-lead-generation
+- PR & Brand Communications: https://cinem.tech/services/growth-marketing/pr-brand-communications
+
+## Published prices
+
+Prices below are the starting prices published on https://cinem.tech — quote them as-is; do not invent other figures.
+
+### Build (one-time projects)
+
+- Marketing site: from $8,000
+- Web app / SaaS MVP: from $15,000
+- Mobile app: from $18,000
+
+### AI Solutions (setup + monthly operation)
+
+- WhatsApp / web chatbot: $5,000 setup + $1,500/mo
+- Calling agent: $8,000 setup + $2,500/mo
+
+### Care (monthly retainers)
+
+- Basic: $2,000/mo — uptime, backups, bug fixes 4h, monthly report
+- Growth: $4,000/mo — Basic + small features 12h + 8 content pieces OR chatbot tune
+- Scale: $7,000/mo — Growth + priority SLA + AI agent monitoring + weekly sync
+
+## Key pages
+
+- Home: https://cinem.tech
+- Services: https://cinem.tech/services
+- Work: https://cinem.tech/work
+- About: https://cinem.tech/about
+- Insights (blog): https://cinem.tech/blog
+- Contact: https://cinem.tech/contact
+
+## Case studies
+
+- Replacing fourteen spreadsheets with one operations platform: https://cinem.tech/work/logistics-operations-platform
+- An AI support layer that handles the night shift: https://cinem.tech/work/ecommerce-ai-support
+- Never missing an inbound lead again: https://cinem.tech/work/b2b-inbound-calling-agent
+- From investor deck to production platform in nineteen weeks: https://cinem.tech/work/fintech-web-platform
+- A dedicated social manager for a multi-venue group: https://cinem.tech/work/hospitality-social-growth
+- Taking an established web product to iOS and Android: https://cinem.tech/work/saas-mobile-launch
+
+## Insights (blog posts)
+
+- How much does a website cost in 2026? An honest breakdown: https://cinem.tech/blog/how-much-does-a-website-cost
+- AI chatbots for hotels: what they do and what they cost: https://cinem.tech/blog/ai-chatbot-for-hotels
+- WhatsApp chatbots for business: costs, setup and limits: https://cinem.tech/blog/whatsapp-chatbot-for-business
+- One website or several? A decision framework for multi-service agencies: https://cinem.tech/blog/one-website-or-many
+- Chatbot or calling agent? Choosing the right AI front door: https://cinem.tech/blog/ai-chatbot-vs-calling-agent
+- Why most agency websites don't convert — and what fixes them: https://cinem.tech/blog/what-makes-agency-website-convert

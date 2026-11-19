@@ -21,7 +21,10 @@ export const site = {
     city: "Add city",
     country: "Add country",
   },
-  social: {},
+  social: {
+    facebook: "https://www.facebook.com/profile.php?id=61596367245772",
+    instagram: "https://www.instagram.com/cinem.tech/",
+  },
 } as const;
 
 export const stats = [

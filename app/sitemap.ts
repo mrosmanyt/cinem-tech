@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { categories, services } from "@/lib/services";
 import { posts } from "@/lib/blog";
+import { caseStudies } from "@/lib/work";
 import { site } from "@/lib/site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -13,7 +14,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: "/about", priority: 0.7 },
     { path: "/blog", priority: 0.7 },
     { path: "/contact", priority: 0.8 },
-    { path: "/contract", priority: 0.6 },
     { path: "/privacy", priority: 0.3 },
     { path: "/terms", priority: 0.3 },
   ].map((r) => ({
@@ -37,6 +37,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
+  const workRoutes = caseStudies.map((c) => ({
+    url: `${site.url}/work/${c.slug}`,
+    lastModified: new Date(c.year),
+    changeFrequency: "monthly" as const,
+    priority: 0.7,
+  }));
+
   const postRoutes = posts.map((p) => ({
     url: `${site.url}/blog/${p.slug}`,
     lastModified: new Date(p.date),
@@ -48,6 +55,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...staticRoutes,
     ...categoryRoutes,
     ...serviceRoutes,
+    ...workRoutes,
     ...postRoutes,
   ];
 }
