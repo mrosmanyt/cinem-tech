@@ -66,7 +66,7 @@ export const services: Service[] = [
       "Your website is the first thing an international buyer checks before they reply to your email. We design and engineer it properly: custom design, hand-written code, sub-second load times and a content system your marketing team can actually use without calling a developer.",
     icon: "browser",
     timeline: "7–10 days",
-    startingAt: "Project-based",
+    startingAt: "from $1,499",
     outcomes: [
       "Lighthouse performance scores of 95+ on mobile and desktop",
       "Technical SEO foundation that ranks without ongoing plugin fees",
@@ -126,7 +126,7 @@ export const services: Service[] = [
       "Marketing sites get visited. Web applications get lived in. We build the platforms your customers and staff open every morning — dashboards, client portals, booking systems, marketplaces and full SaaS products — with the auth, permissions and audit trails that real businesses require.",
     icon: "layers",
     timeline: "8–20 weeks",
-    startingAt: "Project or dedicated team",
+    startingAt: "from $4,999",
     outcomes: [
       "A working product in production, not a prototype",
       "Role-based access control and audit logging from day one",
@@ -185,7 +185,7 @@ export const services: Service[] = [
       "We build for iOS and Android with React Native and Flutter when speed matters, and fully native when performance does. Store submission, review responses and phased rollouts are part of the job, not an afterthought you deal with alone.",
     icon: "phone",
     timeline: "20–30 days",
-    startingAt: "Project-based",
+    startingAt: "from $4,999",
     outcomes: [
       "One codebase shipping to both app stores",
       "Push notifications, deep links and offline support",
@@ -245,7 +245,7 @@ export const services: Service[] = [
       "Every growing business hits the point where the spreadsheet, the plugin stack or the generic SaaS starts costing more in workarounds than it saves in licence fees. We build the system that fits your operation exactly: ERPs, inventory and logistics platforms, booking engines, billing systems and internal tools.",
     icon: "cog",
     timeline: "15 days",
-    startingAt: "Project or dedicated team",
+    startingAt: "from $2,999",
     outcomes: [
       "Manual workarounds eliminated from daily operations",
       "One source of truth instead of five disconnected tools",
@@ -305,7 +305,7 @@ export const services: Service[] = [
       "Your CRM doesn't talk to your accounting system. Your storefront doesn't talk to your warehouse. Somebody exports a CSV every Friday. We build the integrations and middleware that close those gaps permanently, with retries, error alerting and logs you can actually read.",
     icon: "link",
     timeline: "2–8 weeks",
-    startingAt: "Per integration",
+    startingAt: "from $499 per integration",
     outcomes: [
       "Manual data entry between systems eliminated",
       "Real-time sync with automatic retry on failure",
@@ -364,7 +364,7 @@ export const services: Service[] = [
       "We train conversational AI on your documentation, product catalogue, pricing and past support tickets, then deploy it where your customers already are: your website, WhatsApp, Instagram, Messenger and your help desk. It answers accurately, escalates honestly when it doesn't know, and hands the human agent full context.",
     icon: "chat",
     timeline: "3–6 weeks",
-    startingAt: "Setup + monthly",
+    startingAt: "from $999 setup + $299/mo",
     outcomes: [
       "First-line support volume reduced significantly",
       "Instant responses in every timezone you sell into",
@@ -424,7 +424,7 @@ export const services: Service[] = [
       "Most inbound leads go to whoever replies first. An AI voice agent picks up immediately, speaks naturally, qualifies against your criteria, books straight into your calendar and writes the summary into your CRM. Outbound agents handle follow-up, reactivation and appointment reminders at a volume no human team can match.",
     icon: "phone-call",
     timeline: "4–8 weeks",
-    startingAt: "Setup + per minute",
+    startingAt: "from $1,499 setup + $399/mo",
     outcomes: [
       "Zero missed inbound calls, including nights and weekends",
       "Leads qualified and booked without human involvement",
@@ -484,7 +484,7 @@ export const services: Service[] = [
       "Document processing, invoice extraction, report generation, lead routing, content repurposing, onboarding sequences — the tasks that consume hours and produce no judgement. We identify them, automate them and give you the dashboard that proves the hours came back.",
     icon: "bolt",
     timeline: "2–6 weeks per workflow",
-    startingAt: "Per workflow",
+    startingAt: "from $599 per workflow",
     outcomes: [
       "Repetitive tasks removed from skilled people's workload",
       "Faster turnaround with fewer human errors",
@@ -543,7 +543,7 @@ export const services: Service[] = [
       "Strategy, calendar, creative, copy, scheduling, community management and reporting — handled end to end by a team that knows your brand. You approve the month's calendar, we run it. No missed days, no last-minute scrambling for something to post.",
     icon: "share",
     timeline: "Monthly retainer",
-    startingAt: "Monthly",
+    startingAt: "from $499/mo",
     outcomes: [
       "Consistent daily publishing across every active platform",
       "Comments and DMs answered within hours, not days",
@@ -580,7 +580,7 @@ export const services: Service[] = [
     faqs: [
       {
         q: "How many posts per month?",
-        a: "Packages typically run from 12 to 60 pieces a month depending on channels and format mix. We'll size it to your goals in the first call.",
+        a: "It depends on the tier: 12 posts a month on Basic, 20 on Standard (including 4 short videos) and 30 on Premium (including 8 videos). The pricing page lists exactly what each tier includes.",
       },
       {
         q: "Do you handle paid social too?",
@@ -603,7 +603,7 @@ export const services: Service[] = [
       "Some brands need a team. Others need one person who lives inside the business — knows the founder's voice, sits in your Slack, joins your Monday call and owns the channel personally. That's this. A dedicated manager assigned to you alone, backed quietly by our design, video and paid-media specialists when a project needs them.",
     icon: "user",
     timeline: "Monthly retainer",
-    startingAt: "Monthly",
+    startingAt: "from $899/mo",
     outcomes: [
       "A single accountable owner for your social presence",
       "Someone who learns your voice instead of guessing at it",
@@ -640,7 +640,7 @@ export const services: Service[] = [
     faqs: [
       {
         q: "Is this really one dedicated person?",
-        a: "Yes — assigned to your account and no one else's. You'll know their name, their working hours and how to reach them directly.",
+        a: "On Standard and Premium, yes — a named full-time manager assigned to your brand alone; you'll know their name, their working hours and how to reach them directly. Basic is a part-time manager shared with at most two other clients, and we say so upfront.",
       },
       {
         q: "What if it isn't the right fit?",
@@ -663,7 +663,7 @@ export const services: Service[] = [
       "Short-form video, product photography, motion graphics, ad creative, blog articles, case studies, email copy, sales decks. Request it, get it back on a fixed turnaround. No per-project negotiation, no chasing three freelancers across two timezones.",
     icon: "camera",
     timeline: "48h–5 days per asset",
-    startingAt: "Credit-based or monthly",
+    startingAt: "from $399/mo",
     outcomes: [
       "Predictable turnaround instead of freelancer roulette",
       "Consistent brand execution across every asset type",
@@ -723,7 +723,7 @@ export const services: Service[] = [
       "We run the full acquisition stack — paid search and social, SEO, email marketing, landing pages and outbound — and report on one thing that matters: how many qualified conversations reached your sales team, and what each one cost. Everything else is a diagnostic, not a result.",
     icon: "target",
     timeline: "Monthly retainer",
-    startingAt: "Monthly + ad spend",
+    startingAt: "from $599/mo + ad spend",
     outcomes: [
       "A predictable monthly volume of qualified leads",
       "Cost per qualified lead tracked and driven down over time",
@@ -783,7 +783,7 @@ export const services: Service[] = [
       "PR earns the credibility advertising has to rent. We build your narrative, place your founders in relevant media, manage announcements properly and prepare you for the day the coverage isn't flattering.",
     icon: "megaphone",
     timeline: "Monthly retainer",
-    startingAt: "Monthly",
+    startingAt: "from $999/mo",
     outcomes: [
       "Earned coverage in publications your buyers actually read",
       "Founders positioned as credible voices in your category",

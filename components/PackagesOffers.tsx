@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Icon } from "@/components/Icon";
-import { Section, SectionHeader, Badge } from "@/components/ui";
+import { ArrowLink, Section, SectionHeader, Badge } from "@/components/ui";
 
 const packages = [
   {
@@ -11,9 +11,9 @@ const packages = [
     blurb:
       "Fixed-scope engagements for marketing sites, web apps, and mobile — clear deliverables, clear price.",
     items: [
-      { label: "Marketing site", price: "from $8,000" },
-      { label: "Web app / SaaS MVP", price: "from $15,000" },
-      { label: "Mobile app", price: "from $18,000" },
+      { label: "Marketing site", price: "from $1,499" },
+      { label: "Web app / SaaS MVP", price: "from $4,999" },
+      { label: "Mobile app", price: "from $4,999" },
     ],
     cta: "Start a Build project",
     ctaClass: "btn-primary",
@@ -28,11 +28,11 @@ const packages = [
     items: [
       {
         label: "WhatsApp / web chatbot",
-        price: "$5,000 setup + $1,500/mo",
+        price: "from $999 setup + $299/mo",
       },
       {
         label: "Calling agent",
-        price: "$8,000 setup + $2,500/mo",
+        price: "from $1,499 setup + $399/mo",
       },
     ],
     cta: "Explore AI Solutions",
@@ -48,17 +48,18 @@ const packages = [
     items: [
       {
         label: "Basic",
-        price: "$2,000/mo — uptime, backups, bug fixes 4h, monthly report",
+        price:
+          "$499/mo — uptime monitoring, backups, security updates, 2h bug fixes, monthly report",
       },
       {
-        label: "Growth",
+        label: "Standard",
         price:
-          "$4,000/mo — Basic + small features 12h + 8 content pieces OR chatbot tune",
+          "$1,499/mo — Basic + 8h small features or content changes, quarterly review",
       },
       {
-        label: "Scale",
+        label: "Premium",
         price:
-          "$7,000/mo — Growth + priority SLA + AI agent monitoring + weekly sync",
+          "$3,999/mo — Standard + 16h feature time + priority SLA + AI agent monitoring + weekly sync",
       },
     ],
     cta: "Talk about Care",
@@ -106,7 +107,7 @@ export default function PackagesOffers() {
       <SectionHeader
         eyebrow="Engagements"
         title="Three ways to work with us"
-        description="Clear packages for Build, AI Solutions, and Care — with starting prices so you know what to expect before we talk."
+        description="Clear packages for Build, AI Solutions, and Care. Every service now has Basic, Standard and Premium tiers — with published prices so you know what to expect before we talk."
       />
 
       <div className="mt-14 grid gap-6 lg:grid-cols-3">
@@ -145,6 +146,12 @@ export default function PackagesOffers() {
             </Link>
           </article>
         ))}
+      </div>
+
+      <div className="mt-10">
+        <ArrowLink href="/pricing">
+          See full pricing — all 13 services, every tier
+        </ArrowLink>
       </div>
     </Section>
   );

@@ -10,6 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const staticRoutes = [
     { path: "", priority: 1 },
     { path: "/services", priority: 0.9 },
+    { path: "/pricing", priority: 0.8 },
     { path: "/work", priority: 0.9 },
     { path: "/about", priority: 0.7 },
     { path: "/blog", priority: 0.7 },

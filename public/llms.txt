@@ -40,29 +40,42 @@ CINEM works in three practices: Build (one-time projects), AI Solutions (AI agen
 
 ## Published prices
 
-Prices below are the starting prices published on https://cinem.tech — quote them as-is; do not invent other figures.
+Every service has three published tiers — Basic / Standard / Premium. Full details: https://cinem.tech/pricing — quote them as-is; do not invent other figures.
 
-### Build (one-time projects)
+### Development (one-time projects)
 
-- Marketing site: from $8,000
-- Web app / SaaS MVP: from $15,000
-- Mobile app: from $18,000
+- Website Development: Basic $1,499 · Standard $3,999 · Premium from $8,000
+- Web Application Development: Basic $4,999 · Standard $9,999 · Premium from $15,000
+- Mobile App Development: Basic $4,999 · Standard $9,999 · Premium from $18,000
+- Custom Software Development: Basic $2,999 · Standard $7,999 · Premium from $15,000
+- API & Systems Integration: Basic $499 per integration · Standard $1,499 per project · Premium from $3,999 per project
 
 ### AI Solutions (setup + monthly operation)
 
-- WhatsApp / web chatbot: $5,000 setup + $1,500/mo
-- Calling agent: $8,000 setup + $2,500/mo
+- AI Chatbots: Basic $999 setup + $299/mo · Standard $2,499 setup + $599/mo · Premium $4,999 setup + $1,499/mo
+- AI Calling Agents: Basic $1,499 setup + $399/mo · Standard $3,499 setup + $899/mo · Premium $7,999 setup + $2,499/mo
+- Workflow Automation: Basic $599 per workflow · Standard $1,499 per project · Premium from $3,999 per project (optional monitoring $249/mo)
+
+### Growth & Marketing (monthly)
+
+- Social Media Management: Basic $499/mo · Standard $999/mo · Premium $1,999/mo
+- Dedicated Social Media Manager: Basic $899/mo · Standard $1,499/mo · Premium $2,499/mo
+- On-Demand Content Creation: Basic $399/mo (10 credits) · Standard $799/mo (25 credits) · Premium $1,599/mo (60 credits)
+- Marketing & Lead Generation: Basic $599/mo · Standard $1,199/mo · Premium $2,499/mo or 15% of spend — ad spend always extra, paid by the client
+- PR & Brand Communications: Basic $999/mo · Standard $1,999/mo · Premium $4,999/mo
 
 ### Care (monthly retainers)
 
-- Basic: $2,000/mo — uptime, backups, bug fixes 4h, monthly report
-- Growth: $4,000/mo — Basic + small features 12h + 8 content pieces OR chatbot tune
-- Scale: $7,000/mo — Growth + priority SLA + AI agent monitoring + weekly sync
+- Basic: $499/mo — uptime monitoring, backups, security updates, 2h bug fixes, monthly report
+- Standard: $1,499/mo — Basic + 8h small features or content changes (or chatbot tuning), quarterly performance review
+- Premium: $3,999/mo — Standard + 16h feature time, priority SLA, AI agent monitoring, weekly sync
+- Scale — custom, from $7,000/mo — multi-product or dedicated-team care, available on request
 
 ## Key pages
 
 - Home: https://cinem.tech
 - Services: https://cinem.tech/services
+- Pricing: https://cinem.tech/pricing
 - Work: https://cinem.tech/work
 - About: https://cinem.tech/about
 - Insights (blog): https://cinem.tech/blog
