@@ -14,8 +14,8 @@ export const site = {
   email: "hello@cinem.tech",
   salesEmail: "sales@cinem.tech",
   careersEmail: "careers@cinem.tech",
-  phone: "+971 55 527 5368",
-  whatsapp: "+971555275368",
+  phone: "+92 348 9057646",
+  whatsapp: "+923489057646",
   address: {
     line1: "Add your street address",
     city: "Add city",
